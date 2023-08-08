@@ -1,7 +1,8 @@
 ## Hi! I am Gabriela Moreno Boriero
 
 I'm a Computer Engineering Student at Insper 
-I am interested in:Machine Learning, AI and Software Development
+
+I am interested in: Machine Learning, AI and Software Development
 
 <div align="center">
   <a href="https://github.com/Gabrielamb2">
